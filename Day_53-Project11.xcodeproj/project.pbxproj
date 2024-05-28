@@ -11,6 +11,10 @@
 		B6ADF3052C0604E600F8E33F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6ADF3042C0604E600F8E33F /* ContentView.swift */; };
 		B6ADF3072C0604E900F8E33F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6ADF3062C0604E900F8E33F /* Assets.xcassets */; };
 		B6ADF30A2C0604E900F8E33F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6ADF3092C0604E900F8E33F /* Preview Assets.xcassets */; };
+		B6ADF3112C060B3400F8E33F /* Bindinng-Bindable-State.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6ADF3102C060B3400F8E33F /* Bindinng-Bindable-State.swift */; };
+		B6ADF3132C0629DE00F8E33F /* CreatingCustomComponentWithBinding.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6ADF3122C0629DE00F8E33F /* CreatingCustomComponentWithBinding.swift */; };
+		B6ADF3152C06537A00F8E33F /* TextEditorField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6ADF3142C06537A00F8E33F /* TextEditorField.swift */; };
+		B6ADF3172C065E3200F8E33F /* StudentsForSwiftData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6ADF3162C065E3200F8E33F /* StudentsForSwiftData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		B6ADF3042C0604E600F8E33F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B6ADF3062C0604E900F8E33F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6ADF3092C0604E900F8E33F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B6ADF3102C060B3400F8E33F /* Bindinng-Bindable-State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bindinng-Bindable-State.swift"; sourceTree = "<group>"; };
+		B6ADF3122C0629DE00F8E33F /* CreatingCustomComponentWithBinding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingCustomComponentWithBinding.swift; sourceTree = "<group>"; };
+		B6ADF3142C06537A00F8E33F /* TextEditorField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorField.swift; sourceTree = "<group>"; };
+		B6ADF3162C065E3200F8E33F /* StudentsForSwiftData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentsForSwiftData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				B6ADF3022C0604E600F8E33F /* Day_53_Project11App.swift */,
 				B6ADF3042C0604E600F8E33F /* ContentView.swift */,
+				B6ADF3102C060B3400F8E33F /* Bindinng-Bindable-State.swift */,
+				B6ADF3122C0629DE00F8E33F /* CreatingCustomComponentWithBinding.swift */,
+				B6ADF3142C06537A00F8E33F /* TextEditorField.swift */,
+				B6ADF3162C065E3200F8E33F /* StudentsForSwiftData.swift */,
 				B6ADF3062C0604E900F8E33F /* Assets.xcassets */,
 				B6ADF3082C0604E900F8E33F /* Preview Content */,
 			);
@@ -138,7 +150,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6ADF3052C0604E600F8E33F /* ContentView.swift in Sources */,
+				B6ADF3152C06537A00F8E33F /* TextEditorField.swift in Sources */,
+				B6ADF3132C0629DE00F8E33F /* CreatingCustomComponentWithBinding.swift in Sources */,
+				B6ADF3172C065E3200F8E33F /* StudentsForSwiftData.swift in Sources */,
 				B6ADF3032C0604E600F8E33F /* Day_53_Project11App.swift in Sources */,
+				B6ADF3112C060B3400F8E33F /* Bindinng-Bindable-State.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
